@@ -13,7 +13,7 @@ Lakukan enkripsi Playfair Cipher pada plaintext : <br>
 Dengan Kunci **"TEKNIK INFORMATIKA"** <br>
 
 ## **Jawaban :**
-* GOOD BROOM SWEEP CLEAN <br>
+* GOOD BROOM SWEEP CLEAN
 
 **Enkripsi** 
 
