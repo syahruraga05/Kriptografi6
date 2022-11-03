@@ -16,7 +16,7 @@ Dengan Kunci **"TEKNIK INFORMATIKA"** <br>
 * GOOD BROOM SWEEP CLEAN <br>
 
 **Enkripsi** <br>
-![Gambar](./gambar/Capture1.PNG) <br>
+![Gambar](/gambar/Capture1.PNG) <br>
 
 **Dekripsi** <br>
 ![Gambar](./gambar/Capture1.PNG) <br>
