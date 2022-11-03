@@ -8,7 +8,7 @@
 Lakukan enkripsi Playfair Cipher pada plaintext : <br>
 * GOOD BROOM SWEEP CLEAN
 * REDWOOD NATIONAL STATE PARK
-
+* JUNK FOOD AND HEALTH PROBLEMS
 
 Dengan Kunci **"TEKNIK INFORMATIKA"** <br>
 
@@ -16,24 +16,24 @@ Dengan Kunci **"TEKNIK INFORMATIKA"** <br>
 * GOOD BROOM SWEEP CLEAN <br>
 
 **Enkripsi** <br>
-![Gambar](/gambar/Capture1.PNG) 
+![Gambar](/gambar/Capture1.png) 
 
 **Dekripsi** <br>
-![Gambar](/gambar/Capture1.PNG) 
+![Gambar](/gambar/Capture1.png) 
 
 * REDWOOD NATIONAL STATE PARK <br>
 
 **Enkripsi** <br>
-![Gambar](/gambar/Capture3.PNG)
+![Gambar](/gambar/Capture3.png)
 
 **Dekripsi** <br>
-![Gambar](/gambar/Capture4.PNG)
+![Gambar](/gambar/Capture4.png)
 
 * JUNK FOOD AND HEALTH PROBLEMS <br>
 
 **Enkripsi** <br>
-![Gambar](/gambar/Capture5.PNG)
+![Gambar](/gambar/Capture5.png)
 
 **Dekripsi** <br>
-![Gambar](/gambar/Capture4.PNG)
+![Gambar](/gambar/Capture4.png)
 
