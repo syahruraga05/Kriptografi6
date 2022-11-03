@@ -15,31 +15,31 @@ Dengan Kunci **"TEKNIK INFORMATIKA"** <br>
 ## **Jawaban :**
 * GOOD BROOM SWEEP CLEAN <br>
 
-**Enkripsi** <br>
+**Enkripsi** 
 
 ![Gambar](./gambar/Capture1.PNG) 
 
-**Dekripsi** <br>
+**Dekripsi** 
 
 ![Gambar](./gambar/Capture1.PNG) 
 
 * REDWOOD NATIONAL STATE PARK <br>
 
-**Enkripsi** <br>
+**Enkripsi** 
 
 ![Gambar](./gambar/Capture3.PNG)
 
-**Dekripsi** <br>
+**Dekripsi** 
 
 ![Gambar](./gambar/Capture4.PNG)
 
 * JUNK FOOD AND HEALTH PROBLEMS <br>
 
-**Enkripsi** <br>
+**Enkripsi** 
 
 ![Gambar](./gambar/Capture5.PNG)
 
-**Dekripsi** <br>
+**Dekripsi** 
 
 ![Gambar](./gambar/Capture4.PNG)
 
