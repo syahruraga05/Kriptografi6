@@ -13,33 +13,27 @@ Lakukan enkripsi Playfair Cipher pada plaintext : <br>
 Dengan Kunci **"TEKNIK INFORMATIKA"** <br>
 
 ## **Jawaban :**
-* GOOD BROOM SWEEP CLEAN
+* GOOD BROOM SWEEP CLEAN <br>
 
-**Enkripsi** 
+Enkripsi <br>
+![Gambar](./gambar/Capture1.PNG) 
 
-![Gambar](/gambar/Capture1.PNG) 
-
-**Dekripsi** 
-
+**Dekripsi** <br>
 ![Gambar](./gambar/Capture1.PNG) 
 
 * REDWOOD NATIONAL STATE PARK <br>
 
-**Enkripsi** 
-
+**Enkripsi** <br>
 ![Gambar](./gambar/Capture3.PNG)
 
-**Dekripsi** 
-
+**Dekripsi** <br>
 ![Gambar](./gambar/Capture4.PNG)
 
 * JUNK FOOD AND HEALTH PROBLEMS <br>
 
-**Enkripsi** 
-
+**Enkripsi** <br>
 ![Gambar](./gambar/Capture5.PNG)
 
-**Dekripsi** 
-
+**Dekripsi** <br>
 ![Gambar](./gambar/Capture4.PNG)
 
