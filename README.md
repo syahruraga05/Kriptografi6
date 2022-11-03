@@ -17,7 +17,7 @@ Dengan Kunci **"TEKNIK INFORMATIKA"** <br>
 
 **Enkripsi** 
 
-![Gambar](./gambar/Capture1.PNG) 
+![Gambar](/gambar/Capture1.PNG) 
 
 **Dekripsi** 
 
